@@ -34,7 +34,7 @@
 ### :gear: Installation
 
 ```bash
-git repo https://github.com/Enzo889/spoti.git
+git clone https://github.com/Enzo889/spoti.git
 ```
 
 ```bash
