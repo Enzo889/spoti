@@ -1,54 +1,59 @@
-# Astro Starter Kit: Basics
+<div align='center'>
 
-```sh
-npm create astro@latest -- --template basics
+<img src=https://i.pinimg.com/736x/0e/61/dd/0e61dd5125be602f7a085f35128ada19.jpg alt="logo" width= height= />
+
+<h1>spotify-clone</h1>
+<p>a made a spotify-clone inspired in https://spotify-astro-transitions.vercel.app/</p>
+
+<h4> <a href=https://spoti-astro.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/Enzo889/spoti/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Enzo889/spoti/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Enzo889/spoti/issues"> Request Feature </a> </h4>
+
+
+</div>
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
+
+
+## :star2: About the Project
+
+### :camera: Screenshots
+<div align="center"> <a href="https://spoti-astro.vercel.app/"><img src="https://i.pinimg.com/736x/0e/61/dd/0e61dd5125be602f7a085f35128ada19.jpg" alt='image' width='800'/></a> </div>
+
+
+### :space_invader: Tech Stack
+<details> <summary>Client</summary> <ul>
+<li><a href="">Astro</a></li>
+<li><a href="">React</a></li>
+<li><a href="">Svelte</a></li>
+</ul> </details>
+
+
+## :toolbox: Getting Started
+
+### :gear: Installation
+
+```bash
+npm install
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+npm run dev
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
+## :handshake: Contact
 
-All commands are run from the root of the project, from a terminal:
+Enzo Bustamante - [@twitter](https://twitter.com/enzonicolas24) - enzobustamante895@gmail.com
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Project Link: [https://github.com/Enzo889/spoti](https://github.com/Enzo889/spoti)
 
-## 👀 Want to learn more?
+## :gem: Acknowledgements
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+- [shadcn/ui]()
