@@ -1,8 +1,6 @@
 <div align='center'>
 
-<img src=https://i.pinimg.com/736x/0e/61/dd/0e61dd5125be602f7a085f35128ada19.jpg alt="logo" width= height= />
-
-<h1>spotify-clone</h1>
+<h1>spoti</h1>
 <p>a made a spotify-clone inspired in https://spotify-astro-transitions.vercel.app/</p>
 
 <h4> <a href=https://spoti-astro.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/Enzo889/spoti/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Enzo889/spoti/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Enzo889/spoti/issues"> Request Feature </a> </h4>
@@ -36,6 +34,10 @@
 ### :gear: Installation
 
 ```bash
+git repo https://github.com/Enzo889/spoti.git
+```
+
+```bash
 npm install
 ```
 
@@ -56,4 +58,4 @@ Project Link: [https://github.com/Enzo889/spoti](https://github.com/Enzo889/spot
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
-- [shadcn/ui]()
+- [shadcn/ui](https://ui.shadcn.com/)
